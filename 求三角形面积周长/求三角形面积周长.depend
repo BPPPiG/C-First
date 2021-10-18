@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633581240 source:d:\c代码\求三角形面积周长\main.c
+	<stdio.h>
+	<math.h>
+
