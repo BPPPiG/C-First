@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638793052 source:d:\c代码\自定义字符串处理函数\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
